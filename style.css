@@ -1,0 +1,18 @@
+body {
+    color: aqua;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px;
+padding: 20px;
+font-size: 32px;
+color:rgb(223, 60, 238)
+
+}
+
+selection {
+
+    background: rgb(186, 136, 233);
+}
